@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "SjsnzFaPkOE0JgIo15Z2B4trTrk7G+O8R8HO66fZ575i3d6MD01thGJhF9TzhdZg+SKcSNGURM7T+z3KNDaOaw==",
+  "dgSpecHash": "E4KHEX4e1wrQ2hMLsj+9BtSuV6vhV8Ce1KCVwQ3N72QciscXfCIeRdbexT2teVpC5DkK4ZE42npB4Zu4B1toHA==",
   "success": true,
   "projectFilePath": "F:\\Ada Fayyaz\\Git Repository\\testRepository1\\AspNetCore_3Hours\\AspNetCore_3Hours\\AspNetCore_3Hours.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\soomr\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
+    "C:\\Users\\soomr\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\soomr\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\soomr\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\soomr\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

@@ -9,6 +9,11 @@ namespace AspNetCore_3Hours.Data
 {
     public class MockCommanderRepo : ICommanderRepo
     {
+        public void CreateCommand(Command cmd)
+        {
+            throw new NotImplementedException();
+        }
+
         public IEnumerable<Command> GetAllCommands()
         {
             var commands = new List<Command>
@@ -23,6 +28,11 @@ namespace AspNetCore_3Hours.Data
         public Command GetCommandById(int id)
         {
             return new Command { Id = 0, HowTo="Boil An Egg", Line="Boil Water", Platform="Kettle and Pan"};
+        }
+
+        public bool SaveChanges()
+        {
+            throw new NotImplementedException();
         }
     }
 }

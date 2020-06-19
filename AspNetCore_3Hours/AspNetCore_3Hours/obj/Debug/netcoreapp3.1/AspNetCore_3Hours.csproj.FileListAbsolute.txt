@@ -106,5 +106,9 @@ F:\Ada Fayyaz\Git Repository\testRepository1\AspNetCore_3Hours\AspNetCore_3Hours
 F:\Ada Fayyaz\Git Repository\testRepository1\AspNetCore_3Hours\AspNetCore_3Hours\obj\Debug\netcoreapp3.1\AspNetCore_3Hours.genruntimeconfig.cache
 F:\Ada Fayyaz\Git Repository\testRepository1\AspNetCore_3Hours\AspNetCore_3Hours\bin\Debug\netcoreapp3.1\AutoMapper.dll
 F:\Ada Fayyaz\Git Repository\testRepository1\AspNetCore_3Hours\AspNetCore_3Hours\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\Ada Fayyaz\Git Repository\testRepository1\AspNetCore_3Hours\AspNetCore_3Hours\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+F:\Ada Fayyaz\Git Repository\testRepository1\AspNetCore_3Hours\AspNetCore_3Hours\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Ada Fayyaz\Git Repository\testRepository1\AspNetCore_3Hours\AspNetCore_3Hours\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\Ada Fayyaz\Git Repository\testRepository1\AspNetCore_3Hours\AspNetCore_3Hours\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
 F:\Ada Fayyaz\Git Repository\testRepository1\AspNetCore_3Hours\AspNetCore_3Hours\obj\Debug\netcoreapp3.1\AspNetCore_3Hours.csproj.CoreCompileInputs.cache
 F:\Ada Fayyaz\Git Repository\testRepository1\AspNetCore_3Hours\AspNetCore_3Hours\obj\Debug\netcoreapp3.1\AspNetCore_3Hours.MvcApplicationPartsAssemblyInfo.cache

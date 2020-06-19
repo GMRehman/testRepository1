@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AspNetCore_3Hours.DTOs
 {
-    public class CommandCreateDTO
+    public class CommandUpdateDTO
     {
         //public int Id { get; set; }
 
